@@ -12,6 +12,8 @@
  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=MockServiceWorker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React--Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/>
 </div>
 <h4>Knowledgealbe</h4>
 <div>
