@@ -25,5 +25,5 @@
  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,notion" />
 </div>
 
-<h3>🌱 Certificate</h3>
+<h3>🌱 I hold a Certificate in ...</h3>
 <p>Linux Master(Level - 2)</p>
