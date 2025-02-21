@@ -25,3 +25,5 @@
  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,notion" />
 </div>
 
+<h3>🌱 Certificate</h3>
+<p>Linux Master(Level - 2)</p>
