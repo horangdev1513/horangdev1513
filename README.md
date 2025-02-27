@@ -10,7 +10,7 @@
 </div>
 <div>
  <h4>FrontEnd</h4>
- <img src="https://skillicons.dev/icons?i=react,nextjs" />
+ <img src="https://skillicons.dev/icons?i=react,nextjs,remix" />
 </div>
 <div>
  <h4>BackEnd</h4>
