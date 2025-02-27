@@ -26,4 +26,4 @@
 </div>
 
 <h3>🌱 I hold a Certificate in ...</h3>
-<p>Linux Master(Level - 2)</p>
+<h4>Linux Master(Level - 2)</h4>
