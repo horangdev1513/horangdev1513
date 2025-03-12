@@ -2,7 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=500&pause=1000&color=7F8BAA&random=false&width=435&lines=A%20Deo%20Vocatus%20Rite%20Paratus)](https://git.io/typing-svg)
 
 <h3>I'm a $\it{\color{#ffe135}Front-End}$ Developer. <br> And I'm Interested in Back-End, Artificial Intelligence, Data Analysis.</h3>
-
+<h3>🌱 I’m majoring in ...</h3>
+<h4>Computer Engineering with an intensive major</h4>
 <h3>🌱 I’m currently learning ...</h3>
 <div>
  <h4>Languages</h4>
