@@ -28,3 +28,4 @@
 
 <h3>🌱 I hold a Certificate in ...</h3>
 <h4>Linux Master(Level - 2)</h4>
+<h4>SQLD (Developer)</h4>
