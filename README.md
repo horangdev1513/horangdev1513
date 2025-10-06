@@ -4,6 +4,8 @@
 <h3>I'm a $\it{\color{#ffe135}Front-End}$ Developer. <br> And I'm Interested in Back-End, Artificial Intelligence, Data Analysis.</h3>
 <h3>🌱 I’m majoring in ...</h3>
 <h4>Computer Engineering with an intensive major</h4>
+<h3>🌱 I share my thoughts on ...</h3>
+<h4><a href="https://velog.io/@horangdev1513/posts" target="_blank">📝 My Tech Blog</a></h4>
 <h3>🌱 I hold a Certificate in ...</h3>
 <h4>Linux Master(Level - 2)</h4>
 <h4>SQLD (Developer)</h4>
